@@ -157,4 +157,4 @@ media/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-node_modules# 
+/infra_sprint1/frontend/node_modules# 
