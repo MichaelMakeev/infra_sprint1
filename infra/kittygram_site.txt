@@ -1,5 +1,6 @@
 IP: 158.160.22.21;
 name_taski: https://taskiofcongo.ddnsking.com/;
 name_kittygram: https://kittygramofangola.bounceme.net;
+#уточни пожалуйста комментарий, у меня на всех устройтсвах эта ссылка работает, поэтому не понял, что нужно исправить 
 login: superuser;
 password: 666666;
